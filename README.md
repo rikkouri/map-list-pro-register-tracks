@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is a rough outline to as to how to tweak map-list-pro to enable users to
-register track loations
+A simple fix to allow users to add markers to wordpress map-list-pro. 
+This is not designed to be public; only serving as a reference for myself.
 
 ## Files to Edit
 
