@@ -32,7 +32,7 @@ Change the above lines to this:
     // and then add our own marker.
     google.maps.event.addListener(self.map, "click", function (event) {
         self.infowindow.close();
-        //ddaviso
+        
         if (mapObject.options.locationsperpage == EDITABLE) {
             console.log(event.latLng);
             placeMarker(event.latLng);
