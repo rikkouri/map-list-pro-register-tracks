@@ -17,7 +17,7 @@ Lines ~512:
     });
 ```
 
-Were basically going to use this even listener to handle our click event on the
+We are basically going to use this even listener to handle our click event on the
 map. When we receive an event we will call the google maps api to add a marker
 and instruct it to remove any markers on right click.
 
